@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+sentence-transformers
+pinecone-client
+requests
+python-dotenv
+openpyxl
+python-pptx
+fpdf2
+matplotlib
