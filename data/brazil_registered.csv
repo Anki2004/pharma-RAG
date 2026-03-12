@@ -1,0 +1,9 @@
+reg_no,product_name,manufacturer,status,expiry_date
+BR-2001,Paracetamol,Pharma Brasil,Active,2027-06-15
+BR-2002,Metformin,Rio Health,Active,2028-01-20
+BR-2003,Omeprazole,Sao Paulo Meds,Pending,2026-09-30
+BR-2004,Losartan,Amazon Pharma,Active,2027-11-10
+BR-2005,Amoxicillin,Brasilia Labs,Expired,2024-05-15
+BR-2006,Ibuprofen,Copacabana Health,Active,2028-03-22
+BR-2007,Atorvastatin,Sul Pharma,Active,2027-08-18
+BR-2008,Simvastatin,Nordeste Bio,Pending,2026-12-01

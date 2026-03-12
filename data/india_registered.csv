@@ -1,0 +1,11 @@
+reg_no,product_name,manufacturer,therapeutic_class,status
+IN-5001,Paracetamol,Sun Pharma,Analgesic,Active
+IN-5002,Metformin,Cipla Ltd,Antidiabetic,Active
+IN-5003,Amoxicillin,Dr Reddys,Antibiotic,Active
+IN-5004,Atorvastatin,Lupin Pharma,Statin,Active
+IN-5005,Omeprazole,Aurobindo,Proton Pump Inhibitor,Pending
+IN-5006,Ibuprofen,Glenmark,NSAID,Active
+IN-5007,Losartan,Torrent Pharma,ARB,Active
+IN-5008,Amlodipine,Zydus Cadila,Calcium Channel Blocker,Active
+IN-5009,Simvastatin,Alkem Labs,Statin,Expired
+IN-5010,Lisinopril,Mankind Pharma,ACE Inhibitor,Active

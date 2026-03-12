@@ -1,0 +1,6 @@
+registration_no,product_name,status,expiry_date
+AR-1001,Paracetamol,Active,2027-12-31
+AR-1002,Ibuprofen,Pending,2026-06-30
+AR-1003,Aspirin,Active,2028-01-15
+AR-1004,Metformin,Active,2027-09-20
+AR-1005,Amoxicillin,Expired,2024-12-31
